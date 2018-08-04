@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 4c53906aca5fb00458e272b2f8724140
+timeCreated: 1514542090
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Background2
+    100002: Highscore
+    100004: HighScore.T
+    100006: Looking Glass
+    100008: //RootNode
+    100010: Play
+    100012: Play.T
+    100014: Quit
+    100016: Quit.T
+    100018: Shop
+    100020: Shop.T
+    400000: Background2
+    400002: Highscore
+    400004: HighScore.T
+    400006: Looking Glass
+    400008: //RootNode
+    400010: Play
+    400012: Play.T
+    400014: Quit
+    400016: Quit.T
+    400018: Shop
+    400020: Shop.T
+    2300000: Background2
+    2300002: Highscore
+    2300004: HighScore.T
+    2300006: Play
+    2300008: Play.T
+    2300010: Quit
+    2300012: Quit.T
+    2300014: Shop
+    2300016: Shop.T
+    3300000: Background2
+    3300002: Highscore
+    3300004: HighScore.T
+    3300006: Play
+    3300008: Play.T
+    3300010: Quit
+    3300012: Quit.T
+    3300014: Shop
+    3300016: Shop.T
+    4300000: Background2
+    4300002: Quit.T
+    4300004: Shop.T
+    4300006: HighScore.T
+    4300008: Play.T
+    4300010: Quit
+    4300012: Shop
+    4300014: Highscore
+    4300016: Play
+    4300018: Looking Glass
+    9500000: //RootNode
+    13700000: Looking Glass
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bg
+    second: {fileID: 2100000, guid: a80e13930470cdb4980e69e659110315, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Looking Glass
+    second: {fileID: 2100000, guid: e1d4da1e1c4f5a446869f798b4acc75f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MainMenu
+    second: {fileID: 2100000, guid: a39aa87ddbb68984eb7dea5fe991ce3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 6a05bc9fa7faa3744a521b5e84cc275c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
